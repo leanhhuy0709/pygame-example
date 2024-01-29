@@ -1,1 +1,7 @@
 build/
+__pycache__/
+
+npm install --global eas-cli && 
+npx create-expo-app moboy-project && 
+cd moboy-project && 
+eas init --id 7adf2c43-bee2-4b45-8cd5-a9208a50fd9c
